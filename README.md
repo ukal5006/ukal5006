@@ -93,14 +93,14 @@
 <br>
 <br>
 <div align= "center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact</h2> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📭 Contact</h2> 
   <br> 
-  <div align= "center"> 
-    <a href=ukal5006@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=ukal5006@naver.com"> </a>
+  <div align= "center">
+  <a href=mailto:ukal5006@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a>
+  <br/>
+    <span style="font-size: 25px;">ukal5006@naver.com</span>
   </div>  
-  <br> 
-<div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fukal5006%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-   </div> 
+  <br>
 </div>
  <br> 
  <br>  
@@ -115,4 +115,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukal5006&layout=compact&bg_color=FFD5E2&title_color=7A7A7A&text_color=7A7A7A&cache_seconds=86400"/>
   </div>
   <br>
+  <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fukal5006%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+   </div> 
 </div>
