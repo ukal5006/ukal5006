@@ -1,11 +1,3 @@
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=36BCF7FF&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=Hello!+I'm+YongSeong+😆">
-    </a>
-</div>
-
-<br>
-
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Welcome! </h2>  
     <br>   
